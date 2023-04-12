@@ -26,6 +26,7 @@ list_of_files = [
     "requirements-dev.txt",
     "pyproject.toml",
     "setup.cfg",
+    "setup.py"
     "tox.ini"
 ]
 
