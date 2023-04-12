@@ -9,3 +9,4 @@ tox
 flake8
 black
 mypy
+-e .
